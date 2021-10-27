@@ -2,7 +2,7 @@
 
 <hr>
 
-<img align="right" height="250" width="300" alt="" src="https://media0.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47hbe2pq417alp5dxrsinr65x1z4k62x30johdgb69&rid=giphy.gif&ct=g" />
+<img align="right" height="240" width="300" alt="" src="https://media0.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47hbe2pq417alp5dxrsinr65x1z4k62x30johdgb69&rid=giphy.gif&ct=g" />
 
 ## Talking about Personal Stuffs:
 
