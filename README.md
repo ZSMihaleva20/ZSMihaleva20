@@ -8,9 +8,8 @@
 
 - 💻 I’m currently learning HTML5&CSS3, C++ and Python
 - 🖥 Most of my projects are available on [Github](https://github.com/ZSMihaleva20?tab=repositories).
-- 🏀 I like to play basketball
 - 🚲 My hobby is cycling
-- 👩‍💻 I am interested in hacking
+- 👩‍💻 I am interested in cybersecurity
 - 📫 How to reach me: ZSMihaleva20@codingburgas.bg
 
 <hr>
