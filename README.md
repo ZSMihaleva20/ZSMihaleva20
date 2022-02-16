@@ -6,7 +6,7 @@
 
 ## Talking about Personal Stuffs:
 
-- 💻 I’m currently learning HTML5&CSS3, C++ and Python
+- 💻 I’m currently learning HTML5&CSS3, JavaScript, Go, C++ and Python
 - 🖥 Most of my projects are available on [Github](https://github.com/ZSMihaleva20?tab=repositories).
 - 🚲 My hobby is cycling
 - 👩‍💻 I am interested in cybersecurity
