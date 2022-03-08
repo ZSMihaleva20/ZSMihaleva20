@@ -16,7 +16,7 @@
 
 ### How to contact with me:
 
-<a href = "https://www.instagram.com/_zhuskataa_/"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href = "https://www.instagram.com/_zhuskataa_/"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://straightarrowfilms.com/wp-content/uploads/2020/05/new-instagram-logo-png-transparent-light.png" /></a>
 
 <br>
 
