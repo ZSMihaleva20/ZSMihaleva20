@@ -1,6 +1,5 @@
-# Hello, my name is [Zhasmina Mihaleva](https://github.com/ZSMihaleva20/)
-
-<hr>
+# Hello! I'm [Zhasmina Mihaleva!](https://github.com/ZSMihaleva20) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+<br>
 
 <img align="right" height="210" width="280" alt="" src="https://media0.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47hbe2pq417alp5dxrsinr65x1z4k62x30johdgb69&rid=giphy.gif&ct=g" />
 
@@ -11,14 +10,6 @@
 - 🚲 My hobby is cycling
 - 👩‍💻 I am interested in cybersecurity
 - 📫 How to reach me: ZSMihaleva20@codingburgas.bg
-
-<hr>
-
-### How to contact with me:
-
-<a href = "https://www.instagram.com/_zhuskataa_/"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://straightarrowfilms.com/wp-content/uploads/2020/05/new-instagram-logo-png-transparent-light.png" /></a>
-
-<br>
 
 <hr>
 
@@ -34,3 +25,24 @@
 <code><img alt="GO" width="50px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" ></code>
 <code><img  alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" ></code>
 <code><img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
+ 
+<hr>
+  
+### Github Stats
+  
+<p align="center">
+  <a href="https://github.com/ZSMihaleva20"><span>
+    <img height="40%" src="https://github-readme-stats.vercel.app/api?username=ZSMihaleva20&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img height="48%" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZSMihaleva20&theme=radical" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZSMihaleva20&theme=dracula" />
+    </span></a>
+</p>
+  
+<br>
+  
+### 🏆 GitHub Profile Trophies:
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ZSMihaleva20&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
