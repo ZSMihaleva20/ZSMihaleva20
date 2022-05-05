@@ -1,4 +1,4 @@
-# Hello! I'm [Zhasmina Mihaleva!](https://github.com/ZSMihaleva20) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+## <h1 align = "center"> Hello! I'm Zhasmina Mihaleva! <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"> </h1>
 <br>
 
 <img align="right" height="210" width="280" alt="" src="https://media0.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47hbe2pq417alp5dxrsinr65x1z4k62x30johdgb69&rid=giphy.gif&ct=g" />
@@ -6,9 +6,9 @@
 ## Talking about Personal Stuffs:
 
 - 💻 I’m currently learning HTML5&CSS3, JavaScript, Go, C++ and Python
-- 🖥 Most of my projects are available on [Github](https://github.com/ZSMihaleva20?tab=repositories).
+- 🖥 Most of my projects are available on [Github](https://github.com/ZSMihaleva20?tab=repositories)
 - 🚲 My hobby is cycling
-- 👩‍💻 I am interested in cybersecurity
+- 👩‍💻 I am interested in cybersecurity and robotics
 - 📫 How to reach me: ZSMihaleva20@codingburgas.bg
 
 <hr>
