@@ -5,12 +5,12 @@
 
 ## Talking about Personal Stuffs:
 
-- 💻 I’m currently learning HTML5&CSS3, JavaScript, Go, C++ and Python
-- 🖥️ Currently workin' on projects with Node-RED and Arduino
+- 💻 I’m currently learning HTML5&CSS3, JavaScript, Java, C++ and Python
+- 🖥️ Currently workin' on Robotics projects
 - 🖥 Most of my projects are available on [Github](https://github.com/ZSMihaleva20?tab=repositories)
 - 🚲 My hobby is cycling
 - 👩‍💻 I am interested in cybersecurity and robotics
-- 📫 How to reach me: ZSMihaleva20@codingburgas.bg
+- 📫 How to reach me: jasminamihaleva2006@gmail.com
 
 <hr>
 
@@ -23,7 +23,6 @@
 <code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
 <code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
 <code><img alt="Python" width="26px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" ></code>
-<code><img alt="GO" width="50px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" ></code>
 <code><img  alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" ></code>
 <code><img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
  
